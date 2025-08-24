@@ -87,3 +87,6 @@ This project is open source and available under the MIT License.
 
 👩‍💻 Author: Kritika ([https://github.com/KRI940](https://github.com/KRI940))
 
+pip install -r requirements.txt
+
+
