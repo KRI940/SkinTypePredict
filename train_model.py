@@ -1,5 +1,5 @@
 import os
-os.chdir("K:\\Kritika\\Internship Project\\AI Skin type Predictor\\skin")
+os.chdir("K:\\Kritika\\Internship Project\\AI Skin type Predictor\\SkinTypePredict")
 
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
